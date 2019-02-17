@@ -1,0 +1,41 @@
+C:\Users\1\source\repos\Average True Range\BL\bin\Debug\BL.dll
+C:\Users\1\source\repos\Average True Range\BL\bin\Debug\BL.pdb
+C:\Users\1\source\repos\Average True Range\BL\bin\Debug\DataLoading.dll
+C:\Users\1\source\repos\Average True Range\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\source\repos\Average True Range\BL\bin\Debug\EPPlus.dll
+C:\Users\1\source\repos\Average True Range\BL\bin\Debug\DataLoading.pdb
+C:\Users\1\source\repos\Average True Range\BL\bin\Debug\DataLoading.dll.config
+C:\Users\1\source\repos\Average True Range\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\source\repos\Average True Range\BL\bin\Debug\EPPlus.xml
+C:\Users\1\source\repos\Average True Range\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\1\source\repos\Average True Range\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Average True Range\BL\obj\Debug\BL.dll
+C:\Users\1\source\repos\Average True Range\BL\obj\Debug\BL.pdb
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\bin\Debug\BL.dll
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\bin\Debug\BL.pdb
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\bin\Debug\DataLoading.dll
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\bin\Debug\EPPlus.dll
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\bin\Debug\DataLoading.pdb
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\bin\Debug\DataLoading.dll.config
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\bin\Debug\EPPlus.xml
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\obj\Debug\BL.dll
+C:\Users\Сервисный центр\Desktop\Average True Range\BL\obj\Debug\BL.pdb
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\bin\Debug\BL.dll
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\bin\Debug\BL.pdb
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\bin\Debug\DataLoading.dll
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\bin\Debug\EPPlus.dll
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\bin\Debug\DataLoading.pdb
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\bin\Debug\DataLoading.dll.config
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\bin\Debug\EPPlus.xml
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\obj\Debug\BL.dll
+C:\Users\Pavel\Desktop\Task_7-master\Average True Range\BL\obj\Debug\BL.pdb
